@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.env
+.venv/
+venv/
+env/
+.mypy_cache/
+.pytest_cache/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Editor ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Logs ----
+*.log
+
+# ---- Others ----
+*.bak
+*.tmp
+
+# ---- Coverage ----
+.coverage
+htmlcov/
+coverage.xml
